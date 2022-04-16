@@ -1,2 +1,2 @@
-# Auto-Parts
-Auto-parts selling website including Shopping Cart, Settlement.
+# Магазин Автозапчастин
+Проект не для продаж
